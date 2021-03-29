@@ -2,6 +2,7 @@
     "name": "Biu_ix",
     "description": "京东自用脚本",
     "task": [   
+                "0,30 * * * * https://raw.githubusercontent.com/xbt370/Collection/master/Script/jd_live_lottery_social.js, tag=直播间抽奖（全局）, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 	        "3 10 * * * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_fanslove.js, tag=京东粉丝互动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "10 10,11 * * 2-5 https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_entertainment.js, tag=京东百变大咖秀, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "12 12 24-26 3 * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/z_sister.js, tag=京东乘风破浪的姐姐, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
