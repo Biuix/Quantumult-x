@@ -2,8 +2,9 @@
     "name": "Biu_ix",
     "description": "京东自用脚本",
     "task": [   
+                "10 8 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/zqwn.js, tag=最强蜗牛, img-url=https://ae01.alicdn.com/kf/U1748aeaa81a54cdf8797ed3fc54d76ef3.jpg, enabled=true"
                 "0,30 * * * * https://raw.githubusercontent.com/xbt370/Collection/master/Script/jd_live_lottery_social.js, tag=直播间抽奖（全局）, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
-            "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jdlottery.png, enabled=true",
+                "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jdlottery.png, enabled=true",
 	        "3 10 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/jd_fanslove.js, tag=京东粉丝互动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "10 10,11 * * 2-5 https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/jd_entertainment.js, tag=京东百变大咖秀, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
 	        "12 15 15-29 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_lenovo.js, tag=京东联想集卡活动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
