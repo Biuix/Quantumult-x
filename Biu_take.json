@@ -95,4 +95,3 @@
 "0 10 0 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/DD-D1/jddsSign.js, tag=京东读书签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jdds.png, enabled=true",
     ]
 }
-
