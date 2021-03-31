@@ -2,7 +2,7 @@
     "name": "Biu_ix",
     "description": "biuix自用脚本",
     "task": [   
-
+"5,35 9-22 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/smz.js, tag=睡眠赚无限刷,enabled=true",
 "25,55 1,5,9-22 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/ysm.js, tag=云扫码, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
 "10 * * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/dkd.js,tag=多看点,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
 "10 * * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/dkdsp.js,tag=多看点视频,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
