@@ -1,5 +1,5 @@
 {
-    "name": "Biu_ix",
+    "name": "Biuix",
     "description": "biuix自用脚本",
     "task": [   
 
@@ -13,21 +13,20 @@
 "15 10 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/mhdsp.js, tag=陌嗨短视频, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png, enabled=true",
 "15 0 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/jqb.js, tag=金钱豹, img-url=https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png, enabled=true",
 "15,45 10-22 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/wnb.js,tag=蜗牛吧,img-url=https://ftp.bmp.ovh/imgs/2021/02/221a7d94eaa0dddf.jpeg,enabled =true",
-"10 7 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/lxk0301/DIY_shopsign.js,tag=京东店铺(测试), img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png,enabled=true",
 "1 0 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/chavyleung/feng/feng.js,tag=威锋,img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Feng.png, enabled=true",
 "10-15 9 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/lgyy.js, tag=朗果英语, img-url=https://ae01.alicdn.com/kf/Uc3c35e1796624a7ca6a23c89c7f0dff2H.jpg, enabled=true",
 "20 9 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/ximei.js, tag=西梅, img-url=https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg, enabled=true",
 "0,30 * * * * https://raw.githubusercontent.com/xbt370/Collection/master/Script/jd_live_lottery_social.js, tag=直播间抽奖（全局）, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jdlottery.png, enabled=true",
-"3 10 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/jd_fanslove.js, tag=京东粉丝互动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-"10 10,11 * * 2-5 https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/jd_entertainment.js, tag=京东百变大咖秀, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-"12 15 15-29 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_lenovo.js, tag=京东联想集卡活动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-"5 1,6,11,16,21 * 3-4 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_super5g.js, tag=京东5G超级盲盒, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-"11 12 17-30 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_oneplus.js, tag=京东一加盲盒, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true", 
-"15 10 10-31 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_unionPoster.js, tag=京东美的家电节, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-"3 20 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/jd_shake.js, tag=摇一摇, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-"10 10 25-27 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
-"5 8,14,20 25-31 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_mother_jump.js, tag=京东母婴-跳一跳二期, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
+"3 10 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/jd_fanslove.js, tag=京东粉丝互动, img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png, enabled=true",
+"10 10,11 * * 2-5 https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/jd_entertainment.js, tag=京东百变大咖秀, img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png, enabled=true",
+"12 15 15-29 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_lenovo.js, tag=京东联想集卡活动, img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png, enabled=true",
+"5 1,6,11,16,21 * 3-4 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_super5g.js, tag=京东5G超级盲盒, img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png, enabled=true",
+"11 12 17-30 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_oneplus.js, tag=京东一加盲盒, img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png, enabled=true", 
+"15 10 10-31 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_unionPoster.js, tag=京东美的家电节, img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png, enabled=true",
+"3 20 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/jd_shake.js, tag=摇一摇, img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png, enabled=true",
+"10 10 25-27 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_xmf.js, tag=京东小魔方, img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png, enabled=true",
+"5 8,14,20 25-31 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_mother_jump.js, tag=京东母婴-跳一跳二期, img-url=https://raw.githubusercontent.com/Biuix/Picture/master/Jd.png, enabled=true",
 "0 8 22-29 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/qqsdff/cart.js, tag=京东奇瑞新能源抽奖, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 "*/30 * * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/ZIYE/Task/iboxpay.js, tag=笑谱ziye版(查看脚本学用法，请挂全局用方法一), img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
 "5 1 23-25 3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_grassy.js, tag=京东答题赢京豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
@@ -48,7 +47,6 @@
 "3 10 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/i-chenzhe/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 "11 0 * * 1 https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_deleteCoupon.js, tag=京东删除优惠券, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=true",
 "30 10 * * * https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_try.js, tag=京东试用(取关200个店铺再用), img-url=https://raw.githubusercontent.com/ZCY01/img/master/jdtryv1.png, enabled=true",
-"30,31 20-23/1 2,5 3 * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jd_live_redrain3day.js, tag=测试红包雨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 "0 8,21 1-8/1 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_firecrackers.js, tag=京东她的节, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
 "30 8,13,19 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/lxk0301/jd_cfd.js, tag=京喜财富岛(改), img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
 "0 8 1-8/1,27,28 2,3 * https://raw.githubusercontent.com/Biuix/AutoSyncScript/lxk0301/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
@@ -97,3 +95,4 @@
 "0 10 0 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/DD-D1/jddsSign.js, tag=京东读书签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jdds.png, enabled=true",
     ]
 }
+
