@@ -2,6 +2,7 @@
     "name": "Biuix",
     "description": "biuix自用脚本",
     "task": [   
+"0 0 1 1 * https://raw.githubusercontent.com/age174/-/main/mmdzz.js, tag=萌喵大作战无限刷, img-url=https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg, enabled=true",
 "0 9 * * * https://raw.githubusercontent.com/age174/-/main/ehy.js, tag=钢镚赚乐步达人二合一, img-url=https://ae01.alicdn.com/kf/Ua59aa6c4f1784bfc9a0f126a3d8b3fc6V.jpg, enabled=true",
 "15 9 * * * https://raw.githubusercontent.com/age174/-/main/vsh.js, tag=V生活, img-url=https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg, enabled=true",
 "0 */1 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/yggy.js, tag=阳光果园, img-url= https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg, enabled=true",
