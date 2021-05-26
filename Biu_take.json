@@ -3,7 +3,7 @@
     "description": "biuix自用脚本",
     "task": [   
 
-
+"20 9 * * * https://raw.githubusercontent.com/age174/-/main/ximei.js, tag=西梅, img-url=https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg, enabled=true",
 "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png, enabled=true",
 "25,55 1,5,9-22 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/ysm.js, tag=云扫码, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
 "15 12,14,16,20 * * * https://raw.githubusercontent.com/Biuix/AutoSyncScript/feizao/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true",
